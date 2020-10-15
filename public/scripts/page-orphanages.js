@@ -7,9 +7,3 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 L.marker([51.5, -0.09]).addTo(map)
     .bindPopup('A pretty CSS3 popup.<br> Easily customizable.')
     .openPopup();
-
-
-// Video 1h24
-// ajuda mapa:
-// https://github.com/guilhermecapitao/nlw3-discovery-happy/tree/9b50eab9aba16fa79e781a03bb6ffea0428be758
-// https://github.com/devgabrieldejesus/happy
