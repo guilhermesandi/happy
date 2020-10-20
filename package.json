@@ -1,0 +1,23 @@
+{
+  "name": "happy",
+  "version": "1.0.0",
+  "description": "Happy | Leve felicidade para o mundo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermesandi/happy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermesandi/happy/issues"
+  },
+  "homepage": "https://github.com/guilhermesandi/happy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
