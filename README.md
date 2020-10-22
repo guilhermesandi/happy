@@ -30,4 +30,4 @@ http://localhost:5500/
 
 <h2>Agradecimentos</h2>
 
-<p>Agradeço imensamente ao querido Maykão **[@MaykBrito](https://linkedin.com/in/maykbrito)** hehehe, que teve o método de ensino incrível e descontraído, e também agradecer a querida **[Rocketseat](https://rocketseat.com.br/)** por fazer esse evento com tanto carinho.</p>
+<p>Agradeço imensamente ao querido Maykão [@MaykBrito](https://linkedin.com/in/maykbrito) hehehe, que teve o método de ensino incrível e descontraído, e também agradecer a querida [Rocketseat](https://rocketseat.com.br/) por fazer esse evento com tanto carinho.</p>
