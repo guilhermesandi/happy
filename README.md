@@ -10,11 +10,11 @@
 
 </div>
 
-<h2>Sobre</h2>
+## Sobre
 
 <p>O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz 💜</p>
 
-<h2>Como usar</h2>
+## Como usar
 
 ```
 1- Clone esse repositório
@@ -28,10 +28,14 @@ $ npm start
 http://localhost:5500/
 ```
 
-<h2>Agradecimentos</h2>
+## Agradecimentos
 
 <p>
 
 Agradeço imensamente ao querido "Maykão" - **[@MaykBrito](https://linkedin.com/in/maykbrito)** hehehe, que teve o método de ensino incrível e descontraído, e também agradecer a querida **[Rocketseat](https://rocketseat.com.br/)** por fazer esse evento com tanto carinho.
 
 </p>
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
